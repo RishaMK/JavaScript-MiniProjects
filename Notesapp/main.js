@@ -1,9 +1,3 @@
-// if('serviceWorker' in navigator){
-//     navigator.serviceWorker.register('service-worker.js').then(function(){
-//         console.log("service worker registered");
-//     });
-// }
-
 const todoform=document.getElementById('todoform');
 const todolist=document.getElementById('todolist');
 const todoinput=document.getElementById('todoinput');
