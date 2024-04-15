@@ -3,36 +3,36 @@ const questions=[
         question: "which is the largest mammal in the world?",
         answers: [
             {text: "shark", correct: false},
-            {text: "ur mom", correct: true},
+            {text: "whale", correct: true},
             {text: "hyena", correct: false},
-            {text: "nimmakkan", correct: false}
+            {text: "lizard", correct: false}
         ]
     },
     {
         question: "what is the capital of india?",
         answers: [
-            {text: "shark", correct: false},
-            {text: "whale", correct: false},
+            {text: "bengaluru", correct: false},
+            {text: "chennai", correct: false},
             {text: "delhi", correct: true},
-            {text: "nimmakkan", correct: false}
+            {text: "mumbai", correct: false}
         ]
     },
     {
-        question: "hello,____",
+        question: "which popular singer sang the song 'Hello'",
         answers: [
-            {text: "shark", correct: false},
-            {text: "whale", correct: false},
-            {text: "hyena", correct: false},
-            {text: "can you hear me?", correct: true}
+            {text: "Lorde", correct: false},
+            {text: "Taylor Swift", correct: false},
+            {text: "Lana Del Ray", correct: false},
+            {text: "Adele", correct: true}
         ]
     },
     {
-        question: "ninna poojege",
+        question: "which of these is a 1000cc bike",
         answers: [
-            {text: "shark", correct: false},
-            {text: "bande", correct: true},
-            {text: "hyena", correct: false},
-            {text: "nimmakkan", correct: false}
+            {text: "Yamaha r15", correct: false},
+            {text: "Ninja h2", correct: true},
+            {text: "Triumph Street Triple", correct: false},
+            {text: "Yamaha r6", correct: false}
         ]
     }
 ];
